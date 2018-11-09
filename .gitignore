@@ -3,6 +3,8 @@
 
 # OS or Editor folders
 .DS_Store
+.idea
+.vscode
 Thumbs.db
 
 # NPM packages folder.

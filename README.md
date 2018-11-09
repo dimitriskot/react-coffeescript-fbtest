@@ -1,6 +1,6 @@
-# react-native-template
+# react-coffeescript-template
 
-simple react app
+simple react app with coffeescript
 
 ## platform
 
@@ -8,11 +8,21 @@ inherit from my [webpack-template](https://github.com/dimitriskot/webpack-templa
 
 ## languages
 
-inherit from my [webpack-template](https://github.com/dimitriskot/webpack-template)
+- html
+- sass
+- coffeescript
 
 ## JS-library
 
 [React](https://reactjs.org/)
+
+## webpack loaders
+
+- cjsx-loader
+- coffee-loader & coffeescript package (not coffee-script!)
+- style-loader
+- css-loader
+- sass-loader
 
 ## run scripts
 
